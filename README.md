@@ -7,6 +7,8 @@ here i have my projects.
 
 # What i know
 
-**Programming languages** Python, Java, C/C++
+**Programming languages** Python, Java, C/C++, JavaScript
+
+**Web development** HTML, CSS, React, Spring
 
 **Machine learning frameworks** Scikit-learn, Keras/Tensorflow
